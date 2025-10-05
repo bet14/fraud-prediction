@@ -1,4 +1,3 @@
-**Explanation (for GitHub README or code comment)**
 
 This script analyzes whether the numerical data in the columns **`count`**, **`registered`**, and **`casual`** from the file `train.csv` follow **Benford’s Law** — a statistical principle stating that in many naturally occurring datasets, smaller digits appear more frequently as the first digit.
 
